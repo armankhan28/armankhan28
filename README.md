@@ -15,9 +15,12 @@ Skills:  REACT / JS / HTML / CSS/BOOTSTRAP/TAILWIND
 - 📫 How to reach me: mdarmankhan@gmail.com 
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-arman-khan-931616201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-arman-khan-931616201" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdarmankhan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdarmankhan28" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/i_m_brownsugar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_m_brownsugar/" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/arman28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arman28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-arman-khan-931616201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-arman-khan-931616201" height="30" width="40" /></a>
+<a href="https://fb.com/mdarmankhan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdarmankhan28" height="30" width="40" /></a>
+<a href="https://instagram.com/i_m_brownsugar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_brownsugar" height="30" width="40" /></a>
 </p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
