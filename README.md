@@ -32,8 +32,6 @@ Skills:  REACT / JS / HTML / CSS/BOOTSTRAP/TAILWIND
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=armankhan28&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=armankhan28)  
-
-![GitHub metrics](https://metrics.lecoq.io/armankhan28)  
-
+ 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=armankhan28)  
 
